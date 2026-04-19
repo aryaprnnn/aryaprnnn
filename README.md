@@ -1,7 +1,12 @@
+<center>
+
 # Hi there, I'm I Komang Arya Yoga Pramana 
 
 ### Full-Stack Developer | Illustrative Designer 
 
+![Profile Views](https://komarev.com/ghpvc/?username=aryaprnnn&color=blue)
+
+</center>
 ---
 
 ## About Me
