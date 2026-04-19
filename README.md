@@ -1,7 +1,7 @@
 <p align="center">
   <h1 align="center">Hi there, I'm I Komang Arya Yoga Pramana</h1>
-  <p align="center">Full-Stack Developer | Illustrative Designer</p>
-  <img src="https://komarev.com/ghpvc/?username=aryaprnnn&color=blue" alt="Views">
+  <h3 align="center">Full-Stack Developer | Illustrative Designer</h3>
+  <img align="center"; src="https://komarev.com/ghpvc/?username=aryaprnnn&color=blue" alt="Views">
 </p>
 
 ---
