@@ -1,7 +1,6 @@
-<p align="center">
   <h1 align="center">Hi there, I'm I Komang Arya Yoga Pramana</h1>
+  
   <h3 align="center">Full-Stack Developer | Illustrative Designer</h3>
-</p> 
 
 ---
 
