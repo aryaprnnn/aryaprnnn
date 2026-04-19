@@ -3,7 +3,7 @@
 
 ---
 
-## About Me
+### About Me
 
 - From: **Gianyar, Bali, Indonesia**
 - I'm a **Fullstack Developer & Illustrative Designer** with interests in:
@@ -53,13 +53,13 @@
 
 ---
 
-## Github Stats
+### Github Stats
 
 ![Arya's GitHub stats](https://github-readme-stats.vercel.app/api?username=aryaprnnn&show_icons=true&theme=tokyonight)
 
 ---
 
-## Connect With Me
+### Connect With Me
 
 <p align="left">
   <a href="mailto:aryaprnnn@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
