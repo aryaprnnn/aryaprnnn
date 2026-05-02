@@ -52,8 +52,6 @@
 
 ![Arya's GitHub stats](https://github-readme-stats.vercel.app/api?username=aryaprnnn&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aryaprnnn&layout=compact&theme=tokyonight)
-
 ---
 
 ### Connect With Me
